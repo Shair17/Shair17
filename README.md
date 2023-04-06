@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/shair17/shair17/main/name.svg" alt="Shair" />
+</h1>
 
-<!--
-**Shair17/Shair17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+Hi there I'm Jimmy Morales (also know as Shair 😼), a full stack web & mobile developer from Peru.
 
-Here are some ideas to get you started:
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💪 Currently Working on:
+- Yuju [@yuju.app](https://instagram.com/yujuapp) (90%)
+  - A mobile application that connects passengers with drivers in a fun and safe way.
+- Waitress (Pending)
+  - A service for country restaurants that will help them lower their costs and increase their profits.
+
+## Currently Working at
+- React Native's Teacher at IDAT
+- Freelancer
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, NodeJS, Deno, Python, C++
+- 📱 React Native, Flutter
+- ⚙️ Express, Fastify, NestJS
+- 🌐 React, NextJS, Vue, NuxtJS
+- 💅 TailwindCSS, CSS, SASS
+- 💽 MySQL, PostgreSQL, Mongo
+
+## Currently Learning
+- Go
+
+## I'm Interested in
+- Rust
+- Ruby
+
+## Connect with me
+- [shair.dev](https://shair.dev)
+- [@shair_dev](https://twitter.com/shair_dev) on Twitter
+- [@shair.dev](https://instagram.com/shair.dev) on Instagram
+- [@shair.dev](https://tiktok.com/@shair.dev) on TikTok
+- [Community](https://shair.dev/discord) on Discord
