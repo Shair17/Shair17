@@ -5,8 +5,6 @@
 ## Hey! 👋
 Hi there I'm Jimmy Morales (also know as Shair 😼), a full stack web & mobile developer from Peru.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
 - 💪 Currently Working on:
 - Yuju [@yuju.app](https://instagram.com/yujuapp) (90%)
   - A mobile application that connects passengers with drivers in a fun and safe way.
