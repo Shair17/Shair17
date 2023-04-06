@@ -12,8 +12,8 @@ Hi there I'm Jimmy Morales (also know as Shair 😼), a full stack web & mobile 
   - A service for country restaurants that will help them lower their costs and increase their profits.
 
 ## Currently Working at
-- React Native's Teacher at IDAT
-- Freelancer
+- React Native Teacher at IDAT
+- Freelancer at Upwork & independently
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, NodeJS, Deno, Python, C++
